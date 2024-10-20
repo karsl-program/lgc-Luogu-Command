@@ -1,2 +1,26 @@
-# lgc-Luogu-Command
-Use powerful command-line tools to help OIers solve problems more quickly, efficiently, and focused on OI problems on Luogu. 用强大的命令行帮助OIers更快捷、更高效、更专注地在洛谷刷题
+# ![](https://www.luogu.com.cn/favicon.ico) Luogu-Command (lgc)
+
+Use powerful command-line tools to help OIers solve problems more quickly, efficiently, and focused on OI problems on Luogu.
+
+用强大的命令行帮助OIers更快捷、更高效、更专注地在洛谷刷题
+
+## 什么是洛谷
+
+> 洛谷创建于 2013 年 6 月 15 日，至今已有数十万用户，致力于为编程爱好者提供清爽、快捷的编程体验。它不仅仅是一个在线测题系统，更拥有强大的社区、在线学习功能。同时，许多教程内容都是由五湖四海的用户提供的，保证了内容的广泛性。无论是初学 OI 的蒟蒻，还是久经沙场的神犇，均可从洛谷获益，也可以帮助他人，共同进步。\
+> 截至2022年底，洛谷拥有90万用户，有近8000公有题目和超过9000万评测，是国内著名的题库与社区。
+
+以上内容来自[洛谷官网](https://help.luogu.com.cn/about-us)
+
+## 项目的意义
+
+**很早以前，**我就因在洛谷~刷水题~写题时需要不断切换浏览器而破坏了专注力感到烦恼，诚然，仅仅改动一小处代码却要不断切换窗口的体验确实糟糕，因此本项目诞生了。
+
+不论你是**初学者**还是**神犇**，有一个更专注的~切水题~写题环境相信都能让你进步更快、体验更好。
+
+## 使用
+
+在 `Release` 中下载 **Windows** 的**发布版本**，**Linux** 和 **macOS** 的用户可以自行**下载源代码**并使用 Python 环境运行（想方便一点可以自行打包）
+
+下载好后**直接运行** `lgc.exe` 即可，**注意：初次运行需要一会儿的加载等待时间，不是卡死了**。
+
+输入 `help` 命令查看使用方法。
